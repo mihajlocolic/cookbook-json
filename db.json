@@ -1,0 +1,92 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Spaghetti Carbonara",
+      "description": "A classic Italian pasta dish with creamy sauce and crispy pancetta.",
+      "ingredients": [
+        "8 ounces spaghetti",
+        "2 large eggs",
+        "1 cup grated Pecorino Romano cheese",
+        "4 ounces pancetta, diced",
+        "2 cloves garlic, minced",
+        "Salt and black pepper to taste",
+        "Fresh parsley for garnish"
+      ],
+      "preparation": "1. Cook the spaghetti according to package instructions until al dente. Reserve 1/2 cup of pasta cooking water.\n2. In a separate pan, sauté the pancetta until it's crispy. Add minced garlic and cook for another minute.\n3. In a bowl, whisk together eggs, grated Pecorino Romano cheese, and a bit of black pepper.\n4. Drain the cooked spaghetti and add it to the pan with pancetta and garlic. Toss to combine.\n5. Remove from heat and quickly stir in the egg and cheese mixture. Use reserved pasta water to achieve a creamy consistency.\n6. Serve with additional grated cheese and chopped fresh parsley.",
+      "image": "https://www.culinaryhill.com/wp-content/uploads/2021/12/Spaghetti-Carbonara-Culinary-Hill-1200x800-1-480x270.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Chicken Fajitas",
+      "description": "A Tex-Mex favorite featuring seasoned chicken and colorful peppers.",
+      "ingredients": [
+        "1 pound boneless, skinless chicken breasts, sliced into strips",
+        "2 bell peppers, thinly sliced",
+        "1 onion, thinly sliced",
+        "2 tablespoons fajita seasoning",
+        "2 tablespoons vegetable oil",
+        "Flour tortillas",
+        "Sour cream, salsa, and guacamole for serving"
+      ],
+      "preparation": "1. In a large bowl, combine the chicken strips, sliced bell peppers, and sliced onions.\n2. Toss the mixture with fajita seasoning and vegetable oil until well coated.\n3. Heat a skillet over medium-high heat and add the chicken and vegetable mixture.\n4. Sauté until the chicken is cooked through and the vegetables are tender.\n5. Warm the flour tortillas in the skillet or microwave.\n6. Serve the chicken and vegetable mixture in the tortillas with sour cream, salsa, and guacamole.",
+      "image": "https://www.simplyrecipes.com/thmb/Igb2OthIr1Onu0tCPyNVMp8EmtI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2015__04__chicken-fajitas-horiz-a2-1800-8ca8b1b6a694468b8bccf5a1d8e07c6d.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Caprese Salad",
+      "description": "A simple and refreshing Italian salad with tomatoes, mozzarella, and basil.",
+      "ingredients": [
+        "4 ripe tomatoes, sliced",
+        "8 ounces fresh mozzarella cheese, sliced",
+        "Fresh basil leaves",
+        "Extra-virgin olive oil",
+        "Balsamic vinegar",
+        "Salt and pepper to taste"
+      ],
+      "preparation": "1. Arrange the tomato and mozzarella slices on a serving platter, alternating and slightly overlapping.\n2. Tuck fresh basil leaves between the tomato and mozzarella slices.\n3. Drizzle extra-virgin olive oil and balsamic vinegar over the salad.\n4. Season with salt and pepper to taste.\n5. Serve immediately as a refreshing appetizer or side dish.",
+      "image": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2019/07/Caprese-Salad-main-1.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Beef Stir-Fry",
+      "description": "A quick and flavorful stir-fry with tender beef and crisp vegetables.",
+      "ingredients": [
+        "1 pound beef sirloin, thinly sliced",
+        "2 cups mixed vegetables (e.g., broccoli, bell peppers, snap peas)",
+        "3 cloves garlic, minced",
+        "1/4 cup soy sauce",
+        "2 tablespoons hoisin sauce",
+        "2 tablespoons vegetable oil",
+        "Cooked rice for serving"
+      ],
+      "preparation": "1. In a bowl, marinate the sliced beef with minced garlic, soy sauce, and hoisin sauce for 15 minutes.\n2. Heat vegetable oil in a wok or large skillet over high heat.\n3. Add the marinated beef and stir-fry until it's browned and cooked through. Remove from the pan and set aside.\n4. In the same pan, stir-fry the mixed vegetables until crisp-tender.\n5. Return the cooked beef to the pan and stir to combine with the vegetables.\n6. Serve the beef stir-fry over cooked rice.",
+      "image": "https://www.foodnetwork.com/content/dam/images/food/fullset/2015/12/16/3/FNM_010116-Beef-Stir-Fry-Recipe_s4x3.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Vegetable Curry",
+      "description": "A fragrant and spicy vegetarian curry with a variety of vegetables.",
+      "ingredients": [
+        "2 cups mixed vegetables (e.g., carrots, potatoes, bell peppers, peas), ",
+        "1 onion, chopped, ",
+        "2 cloves garlic, minced, ",
+        "1 can (14 oz) coconut milk, ",
+        "2 tablespoons curry paste, ",
+        "1 tablespoon vegetable oil, ",
+        "Fresh cilantro for garnish, ",
+        "Cooked rice or naan bread for serving, "
+      ],
+      "preparation": "1. Heat vegetable oil in a large pot over medium heat. Add chopped onion and sauté until translucent.\n2. Add minced garlic and curry paste. Cook for a couple of minutes until fragrant.\n3. Add the mixed vegetables and sauté for a few minutes.\n4. Pour in the coconut milk and simmer until the vegetables are tender and the sauce thickens.\n5. Serve the vegetable curry over cooked rice or with naan bread, garnished with fresh cilantro.",
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2023/07/vegetable-curry-recipe.jpg"
+    },
+    {
+      "name": "Grilled Cheese Sandwich",
+      "description": "Indulge in the timeless comfort of a Grilled Cheese Sandwich, a quick and easy classic that satisfies your cravings. With just a few ingredients and a hot skillet, you can create a golden, crispy exterior that encases gooey, melted cheese. Perfect for a fast, delicious meal or snack.",
+      "ingredients": "2 slices of bread\n2 slices of your favorite cheese (e.g., cheddar or American)\n1-2 tablespoons of butter",
+      "preparation": "Heat a non-stick skillet or frying pan over medium-low heat.\n\nSpread a thin layer of butter on one side of each slice of bread.\n\nPlace one slice of bread, butter-side down, in the heated skillet.\n\nQuickly add the cheese slices on top of the bread in the pan.\n\nPlace the second slice of bread on top of the cheese, with the buttered side facing up.\n\nCook for 2-4 minutes on each side or until the bread is golden brown and the cheese is melted to your liking. You can cover the pan with a lid to help the cheese melt faster.\n\nCarefully remove the grilled cheese sandwich from the pan and let it cool for a minute before cutting it in half.\n\nServe and enjoy your delicious grilled cheese sandwich!",
+      "image": "https://natashaskitchen.com/wp-content/uploads/2021/08/Grilled-Cheese-Sandwich-SQ.jpg",
+      "id": 6
+    }
+  ]
+}
